@@ -161,3 +161,5 @@ http://port.denver1769.in/Airpel.php?tv=1956
 http://port.denver1769.in/Airpel.php?tv=1823
 #EXTINF:-1 tvg-id="Bhavya" group-title="Bhavya",Bhavya
 https://file-to-link-bot-nx-a4a8eaae5135.herokuapp.com/dl/672243932da85e318e65fe24
+#EXTINF:-1 tvg-id="Super Hungama" group-title="Kids",Super Hungama
+https://unknown-playlists.vercel.app/super-hungama.m3u8
