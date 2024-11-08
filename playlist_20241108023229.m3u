@@ -20,7 +20,8 @@ http://119.152.240.15:8001/play/a0av/index.m3u8
 https://allinonereborn.in/live/stalker/m3u.php?id=8913
 #EXTINF:-1 tvg-id="Colors" group-title="Entertainment",Colors
 https://allinonereborn.in/live/stalker/m3u.php?id=8898
-#EXTINF:-1 tvg-id="&amp;TV" group-title="Entertainment",&amp;TV
+#EXTINF:-1 tvg-id="&amp;TV" group-title="Entertainment",& TV
+
 https://allinonereborn.in/live/stalker/m3u.php?id=8893
 #EXTINF:-1 tvg-id="Colors Rishtey" group-title="Entertainment",Colors Rishtey
 https://allinonereborn.in/live/stalker/m3u.php?id=8825
