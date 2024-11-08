@@ -3,7 +3,8 @@
 http://119.152.240.15:8001/play/a0gr/index.m3u8
 #EXTINF:-1 tvg-id="Hungama" group-title="Kids",Hungama
 http://119.152.240.15:8001/play/a0cs/index.m3u8
-#EXTINF:-1 tvg-id="Zee Tv" group-title="Entertainment",Zee Tv
+#EXTINF:-1 tvg-id="Zee Tv" group-title="Entertainment",Zee TV
+
 http://119.152.240.15:8001/play/a0gz/index.m3u8
 #EXTINF:-1 tvg-id="Discovery" group-title="Infotainment",Discovery
 http://119.152.240.15:8001/play/a0dp/index.m3u8
