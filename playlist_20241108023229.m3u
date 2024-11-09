@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Live Afg Vs Ban" group-title="Live Events",Live Afg Vs Ban
+https://allinonereborn.in/live/stalker/m3u.php?id=10330
 #EXTINF:-1 tvg-id="Sony Max" group-title="Movies",Sony MAX
 http://119.152.240.15:8001/play/a0gr/index.m3u8
 #EXTINF:-1 tvg-id="Hungama" group-title="Kids",Hungama
