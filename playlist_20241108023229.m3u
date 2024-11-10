@@ -1,6 +1,6 @@
 #EXTM3U  
 
-#EXTINF:-1 tvg-id="Sony Max" group-title="Movies",Sony Max
+#EXTINF:-1 tvg-id="Sony Max"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-max-in.png" group-title="Movies",Sony Max
 http://119.152.240.15:8001/play/a0gr/index.m3u8 
 #EXTINF:-1 tvg-id="Hungama" group-title="Kids",Hungama
 http://119.152.240.15:8001/play/a0cs/index.m3u8
