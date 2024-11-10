@@ -1,6 +1,6 @@
 #EXTM3U  
 
-#EXTINF:-1 tvg-id="Sony Max"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sony-max-in.png" group-title="Movies",Sony Max
+#EXTINF:-1 tvg-id="Sony Max" group-title="Movies",Sony Max
 http://119.152.240.15:8001/play/a0gr/index.m3u8 
 #EXTINF:-1 tvg-id="Hungama" group-title="Kids",Hungama
 http://119.152.240.15:8001/play/a0cs/index.m3u8
@@ -21,13 +21,12 @@ https://allinonereborn.in/live/stalker/m3u.php?id=8913
 #EXTINF:-1 tvg-id="Colors" group-title="Entertainment",Colors
 https://allinonereborn.in/live/stalker/m3u.php?id=8898
 #EXTINF:-1 tvg-id="&amp;TV" group-title="Entertainment",& TV
-
 https://allinonereborn.in/live/stalker/m3u.php?id=8893
 #EXTINF:-1 tvg-id="Colors Rishtey" group-title="Entertainment",Colors Rishtey
 https://allinonereborn.in/live/stalker/m3u.php?id=8825
 #EXTINF:-1 tvg-id="Sony Set(Sony)" group-title="Entertainment",Sony Set(Sony)
 https://allinonereborn.in/live/stalker/m3u.php?id=8907
-#EXTINF:-1 tvg-id="Sony SAB HD" group-title="Entertainment",Sony SAB HD
+#EXTINF:-1 tvg-id="Sony SAB HD" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/5_245.png" group-title="Entertainment",Sony SAB HD
 https://allinonereborn.in/live/stalker/m3u.php?id=8943
 #EXTINF:-1 tvg-id="Star Plus" group-title="Entertainment",Star Plus
 https://allinonereborn.in/live/stalker/m3u.php?id=8877
