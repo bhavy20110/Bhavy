@@ -1,6 +1,4 @@
 #EXTM3U  
-#EXTINF:-1 tvg-id="Live WI Vs Eng" group-title="Live Events",Live WI Vs Eng
-http://port.denver1769.in/Airpel.php?tv=314
 #EXTINF:-1 tvg-id="Sony Max" group-title="Movies",Sony Max
 http://119.152.240.15:8001/play/a0gr/index.m3u8 
 #EXTINF:-1 tvg-id="Hungama" group-title="Kids",Hungama
