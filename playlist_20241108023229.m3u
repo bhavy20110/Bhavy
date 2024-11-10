@@ -1,8 +1,5 @@
 #EXTM3U  
-#EXTINF:-1 tvg-id="Live Nz Vs SL" group-title="Live Events",Live Nz Vs SL
-http://game.denver1769.in/port/tp3.php?id=12166
-#EXTINF:-1 tvg-id="Live Ind Vs Sa" group-title="Live Events",Live Ind Vs Sa
-http://game.denver1769.in/port/tp3.php?id=11711
+
 #EXTINF:-1 tvg-id="Sony Max" group-title="Movies",Sony Max
 http://119.152.240.15:8001/play/a0gr/index.m3u8 
 #EXTINF:-1 tvg-id="Hungama" group-title="Kids",Hungama
