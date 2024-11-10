@@ -1,4 +1,5 @@
 #EXTM3U  
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 #EXTINF:-1 tvg-id="Sony Max" group-title="Movies",Sony Max
 http://119.152.240.15:8001/play/a0gr/index.m3u8 
