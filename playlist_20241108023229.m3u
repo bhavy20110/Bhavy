@@ -1,140 +1,139 @@
 #EXTM3U  
-
-#EXTINF:-1 tvg-id="Sony Max" group-title="Movies",Sony Max
+#EXTINF:-1 tvg-id="Sony Max" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",Sony Max
 http://119.152.240.15:8001/play/a0gr/index.m3u8 
-#EXTINF:-1 tvg-id="Hungama" group-title="Kids",Hungama
+#EXTINF:-1 tvg-id="Hungama" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Hungama
 http://119.152.240.15:8001/play/a0cs/index.m3u8
-#EXTINF:-1 tvg-id="Zee Tv" group-title="Entertainment",Zee TV
+#EXTINF:-1 tvg-id="Zee Tv" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Zee TV
 http://119.152.240.15:8001/play/a0gz/index.m3u8
-#EXTINF:-1 tvg-id="Discovery" group-title="Infotainment",Discovery
+#EXTINF:-1 tvg-id="Discovery" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Infotainment",Discovery
 http://119.152.240.15:8001/play/a0dp/index.m3u8
-#EXTINF:-1 tvg-id="Zee Cinema" group-title="Movies",Zee Cinema
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",Zee Cinema
 http://119.152.240.15:8001/play/a0bf/index.m3u8
-#EXTINF:-1 tvg-id="Star Gold Romance" group-title="Movies",Star Gold Romance
+#EXTINF:-1 tvg-id="Star Gold Romance" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",Star Gold Romance
 http://119.152.240.15:8001/play/a0iy/index.m3u8
-#EXTINF:-1 tvg-id="Star Gold 2" group-title="Movies",Star Gold 2
+#EXTINF:-1 tvg-id="Star Gold 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",Star Gold 2
 http://119.152.240.15:8001/play/a0iz/index.m3u8
-#EXTINF:-1 tvg-id="Sony Ten 1" group-title="Cricket",Sony Ten 1
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Sony Ten 1
 http://119.152.240.15:8001/play/a0av/index.m3u8
-#EXTINF:-1 tvg-id="Zee Anmol" group-title="Entertainment",Zee Anmol
+#EXTINF:-1 tvg-id="Zee Anmol" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Zee Anmol
 https://allinonereborn.in/live/stalker/m3u.php?id=8913
-#EXTINF:-1 tvg-id="Colors" group-title="Entertainment",Colors
+#EXTINF:-1 tvg-id="Colors" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Colors
 https://allinonereborn.in/live/stalker/m3u.php?id=8898
-#EXTINF:-1 tvg-id="&amp;TV" group-title="Entertainment",& TV
+#EXTINF:-1 tvg-id="&TV" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",& TV
 https://allinonereborn.in/live/stalker/m3u.php?id=8893
-#EXTINF:-1 tvg-id="Colors Rishtey" group-title="Entertainment",Colors Rishtey
+#EXTINF:-1 tvg-id="Colors Rishtey" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Colors Rishtey
 https://allinonereborn.in/live/stalker/m3u.php?id=8825
-#EXTINF:-1 tvg-id="Sony Set(Sony)" group-title="Entertainment",Sony Set(Sony)
+#EXTINF:-1 tvg-id="Sony Set(Sony)" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Sony Set(Sony)
 https://allinonereborn.in/live/stalker/m3u.php?id=8907
-#EXTINF:-1 tvg-id="Sony SAB HD" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/5_245.png" group-title="Entertainment",Sony SAB HD
+#EXTINF:-1 tvg-id="Sony SAB HD" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/5_245.png" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Sony SAB HD
 https://allinonereborn.in/live/stalker/m3u.php?id=8943
-#EXTINF:-1 tvg-id="Star Plus" group-title="Entertainment",Star Plus
+#EXTINF:-1 tvg-id="Star Plus" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Star Plus
 https://allinonereborn.in/live/stalker/m3u.php?id=8877
-#EXTINF:-1 tvg-id="Star Bharat" group-title="Entertainment",Star Bharat
+#EXTINF:-1 tvg-id="Star Bharat" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Star Bharat
 https://allinonereborn.in/live/stalker/m3u.php?id=8826
-#EXTINF:-1 tvg-id="AAJ Tak" group-title="News",AAJ Tak
+#EXTINF:-1 tvg-id="AAJ Tak" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="News",AAJ Tak
 https://allinonereborn.in/live/stalker/m3u.php?id=8941
-#EXTINF:-1 tvg-id="ABP News" group-title="News",ABP News
+#EXTINF:-1 tvg-id="ABP News" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="News",ABP News
 https://allinonereborn.in/live/stalker/m3u.php?id=8848
-#EXTINF:-1 tvg-id="Star Gold" group-title="Movies",Star Gold
+#EXTINF:-1 tvg-id="Star Gold" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",Star Gold
 https://allinonereborn.in/live/stalker/m3u.php?id=8829
-#EXTINF:-1 tvg-id="&Pictures" group-title="Movies",&Pictures
+#EXTINF:-1 tvg-id="&Pictures" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",&Pictures
 https://allinonereborn.in/live/stalker/m3u.php?id=8819
-#EXTINF:-1 tvg-id="Bindaas" group-title="Music",Bindaas
+#EXTINF:-1 tvg-id="Bindaas" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Music",Bindaas
 https://allinonereborn.in/live/stalker/m3u.php?id=8914
-#EXTINF:-1 tvg-id="B4U Movies" group-title="Movies",B4U Movies
+#EXTINF:-1 tvg-id="B4U Movies" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",B4U Movies
 https://allinonereborn.in/live/stalker/m3u.php?id=8900
-#EXTINF:-1 tvg-id="Colors Cineplex" group-title="Movies",Colors Cineplex
+#EXTINF:-1 tvg-id="Colors Cineplex" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",Colors Cineplex
 https://allinonereborn.in/live/stalker/m3u.php?id=8864
-#EXTINF:-1 tvg-id="India Today" group-title="News",India Today
+#EXTINF:-1 tvg-id="India Today" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="News",India Today
 https://allinonereborn.in/live/stalker/m3u.php?id=8835
-#EXTINF:-1 tvg-id="News 18" group-title="News",News 18
+#EXTINF:-1 tvg-id="News 18" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="News",News 18
 https://allinonereborn.in/live/stalker/m3u.php?id=8622
-#EXTINF:-1 tvg-id="Republic TV" group-title="News",Republic TV
+#EXTINF:-1 tvg-id="Republic TV" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="News",Republic TV
 https://allinonereborn.in/live/stalker/m3u.php?id=8953
-#EXTINF:-1 tvg-id="Nat Geo Wild" group-title="Infotainment",Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Infotainment",Nat Geo Wild
 https://allinonereborn.in/live/stalker/m3u.php?id=8964
-#EXTINF:-1 tvg-id="Animal Planet Hindi" group-title="Infotainment",Animal Planet Hindi
+#EXTINF:-1 tvg-id="Animal Planet Hindi" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Infotainment",Animal Planet Hindi
 https://allinonereborn.in/live/stalker/m3u.php?id=8965
-#EXTINF:-1 tvg-id="Willow Cricket" group-title="Cricket",Willow Cricket
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Willow Cricket
 http://port.denver1769.in/Airpel.php?tv=2027
-#EXTINF:-1 tvg-id="Willow Cricket Extra" group-title="Cricket",Willow Cricket Extra
+#EXTINF:-1 tvg-id="Willow Cricket Extra" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Willow Cricket Extra
 http://port.denver1769.in/Airpel.php?tv=2025
-#EXTINF:-1 tvg-id="Star Sports 1" group-title="Cricket",Star Sports 1
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Star Sports 1
 http://port.denver1769.in/Airpel.php?tv=290
-#EXTINF:-1 tvg-id="Star Sports 1 Hindi" group-title="Cricket",Star Sports 1 Hindi
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Star Sports 1 Hindi
 http://port.denver1769.in/Airpel.php?tv=1965
-#EXTINF:-1 tvg-id="Star Sports 2" group-title="Cricket",Star Sports 2
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Star Sports 2
 http://port.denver1769.in/Airpel.php?tv=1446
-#EXTINF:-1 tvg-id="A Sports" group-title="Cricket",A Sports
+#EXTINF:-1 tvg-id="A Sports" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",A Sports
 http://port.denver1769.in/Airpel.php?tv=2428
-#EXTINF:-1 tvg-id="Sony Ten 3" group-title="Cricket",Sony Ten 3
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Sony Ten 3
 http://port.denver1769.in/Airpel.php?tv=298
-#EXTINF:-1 tvg-id="Sony Ten 5" group-title="Cricket",Sony Ten 5
+#EXTINF:-1 tvg-id="Sony Ten 5" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Sony Ten 5
 http://port.denver1769.in/Airpel.php?tv=299
-#EXTINF:-1 tvg-id="Sky Sports Cricket" group-title="Cricket",Sky Sports Cricket
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Sky Sports Cricket
 http://port.denver1769.in/Airpel.php?tv=1960
-#EXTINF:-1 tvg-id="Astro Cricket" group-title="Cricket",Astro Cricket
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Astro Cricket
 http://port.denver1769.in/Airpel.php?tv=1973
 #EXTINF:-1 tvg-id="Fox Cricket" group-title="Cricket",Fox Cricket
 http://port.denver1769.in/Airpel.php?tv=1972
-#EXTINF:-1 tvg-id="Sports 18" group-title="Cricket",Sports 18
+#EXTINF:-1 tvg-id="Sports 18 1" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Sports 18 1
 http://port.denver1769.in/Airpel.php?tv=2458
-#EXTINF:-1 tvg-id="T Sports HD" group-title="Cricket",T Sports HD
+#EXTINF:-1 tvg-id="T Sports HD" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",T Sports HD
 http://port.denver1769.in/Airpel.php?tv=2460
-#EXTINF:-1 tvg-id="Sony Ten 2" group-title="Sports",Sony Ten 2
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Sports",Sony Ten 2
 http://port.denver1769.in/Airpel.php?tv=297
-#EXTINF:-1 tvg-id="DD Sports HD" group-title="Sports",DD Sports HD
+#EXTINF:-1 tvg-id="DD Sports HD" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Sports",DD Sports HD
 http://port.denver1769.in/Airpel.php?tv=2604
-#EXTINF:-1 tvg-id="Star Sports Select 1" group-title="Sports",Star Sports Select 1
+#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Sports",Star Sports Select 1
 http://port.denver1769.in/Airpel.php?tv=1444
-#EXTINF:-1 tvg-id="Star Sports Select 2" group-title="Sports",Star Sports Select 2
+#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Sports",Star Sports Select 2
 http://port.denver1769.in/Airpel.php?tv=1448
-#EXTINF:-1 tvg-id="Hungama 2" group-title="Kids",Hungama 2
+#EXTINF:-1 tvg-id="Hungama 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Hungama 2
 http://starshare.live:8080/live/7382837374/5003958588/18456.m3u8
-#EXTINF:-1 tvg-id="Pogo" group-title="Kids",Pogo
+#EXTINF:-1 tvg-id="Pogo" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Pogo
 http://port.denver1769.in/Airpel.php?tv=250
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Cartoon Network
 http://port.denver1769.in/Airpel.php?tv=249
-#EXTINF:-1 tvg-id="Disney" group-title="Kids",Disney
+#EXTINF:-1 tvg-id="Disney" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Disney
 https://tgaadi-web.tech/stalker/portal.m3u8?id=864
-#EXTINF:-1 tvg-id="Disney 2" group-title="Kids",Disney 2
+#EXTINF:-1 tvg-id="Disney 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Disney 2
 http://119.156.26.155:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network 2" group-title="Kids",Cartoon Network 2
+#EXTINF:-1 tvg-id="Cartoon Network 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Cartoon Network 2
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=150478|Referer=RANAPK
-#EXTINF:-1 tvg-id="Nick Hindi" group-title="Kids",Nick Hindi
+#EXTINF:-1 tvg-id="Nick Hindi" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Nick Hindi
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=150482|Referer=RANAPK
-#EXTINF:-1 tvg-id="Sony YAY" group-title="Kids",Sony YAY
+#EXTINF:-1 tvg-id="Sony YAY" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Sony YAY
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=26187
-#EXTINF:-1 tvg-id="Sonic" group-title="Kids",Sonic
+#EXTINF:-1 tvg-id="Sonic" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Sonic
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=34011|Referer=RANAPK
-#EXTINF:-1 tvg-id="Discovery Kids" group-title="Kids",Discovery Kids
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Discovery Kids
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=76723|Referer=RANAPK
-#EXTINF:-1 tvg-id="Disney HD" group-title="Kids",Disney HD
+#EXTINF:-1 tvg-id="Disney HD" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Disney HD
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=167551|Referer=RANAPK
-#EXTINF:-1 tvg-id="Nick JR" group-title="Kids",Nick JR
+#EXTINF:-1 tvg-id="Nick JR" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Nick JR
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=153156|Referer=RANAPK
-#EXTINF:-1 tvg-id="Nick HD+" group-title="Kids",Nick HD+
+#EXTINF:-1 tvg-id="Nick HD+" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Nick HD+
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=76722|Referer=RANAPK
-#EXTINF:-1 tvg-id="Cartoon Network HD+" group-title="Kids",Cartoon Network HD+
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Cartoon Network HD+
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=153154|Referer=RANAPK
-#EXTINF:-1 tvg-id="Disney India 3" group-title="Kids",Disney India 3
+#EXTINF:-1 tvg-id="Disney India 3" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Disney India 3
 https://shorturl.at/PXxv7
-#EXTINF:-1 tvg-id="Disney India 4" group-title="Kids",Disney India 4
+#EXTINF:-1 tvg-id="Disney India 4" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Disney India 4
 https://game.denver1769.in/port/tp3.php?id=11639
-#EXTINF:-1 tvg-id="Disney India 5" group-title="Kids",Disney India 5
+#EXTINF:-1 tvg-id="Disney India 5" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Disney India 5
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=167551%7CReferer=RANAPK
-#EXTINF:-1 tvg-id="Hungama 3" group-title="Kids",Hungama 3
+#EXTINF:-1 tvg-id="Hungama 3" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Hungama 3
 http://bostv.one:8080/54846548461/774302/92417
-#EXTINF:-1 tvg-id="Disney India HD 2" group-title="Kids",Disney India HD 2
+#EXTINF:-1 tvg-id="Disney India HD 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Disney India HD 2
 https://allinonereborn.com/spice.m3u8/?id=634
-#EXTINF:-1 tvg-id="Discovery Kids 2" group-title="Kids",Discovery Kids 2
+#EXTINF:-1 tvg-id="Discovery Kids 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Discovery Kids 2
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
-#EXTINF:-1 tvg-id="Sony YAY 2" group-title="Kids",Sony YAY 2
+#EXTINF:-1 tvg-id="Sony YAY 2" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Sony YAY 2
 http://bostv.one:8080/54846548461/774302/92420
-#EXTINF:-1 tvg-id="Disney Junior" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="Disney Junior" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Disney Junior
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=153175
-#EXTINF:-1 tvg-id="Gubbare" group-title="Kids",Gubbare
+#EXTINF:-1 tvg-id="Gubbare" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-id="Doraemon 24*7" group-title="Kids 24/7",Doraemon 24*7
 http://game.denver1769.in/port/tp3.m3u8?id=58634
@@ -150,23 +149,19 @@ https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=342074
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=308282
 #EXTINF:-1 tvg-id="Tom And Jerry 24*7" group-title="Kids 24/7",Tom And Jerry 24*7
 https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=329247%7CReferer=RANAPK
-#EXTINF:-1 tvg-id="Big Boss 24*7" group-title="Entertainment",Big Boss 24*7
+#EXTINF:-1 tvg-id="Big Boss 24*7" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Big Boss 24*7
 http://port.denver1769.in/Airpel.php?tv=2741
-#EXTINF:-1 tvg-id="Sony Pal" group-title="Entertainment",Sony Pal
+#EXTINF:-1 tvg-id="Sony Pal" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Entertainment",Sony Pal
 http://port.denver1769.in/Airpel.php?tv=1824
-#EXTINF:-1 tvg-id="News 18 Hindi" group-title="News",News 18 Hindi
+#EXTINF:-1 tvg-id="News 18 Hindi" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="News",News 18 Hindi
 http://port.denver1769.in/Airpel.php?tv=1956
-#EXTINF:-1 tvg-id="And Xplore" group-title="Movies",And Xplore
+#EXTINF:-1 tvg-id="And Xplore" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",And Xplore
 http://port.denver1769.in/Airpel.php?tv=1823
 #EXTINF:-1 tvg-id="Bhavya" group-title="Bhavya",Bhavya
 https://file-to-link-bot-nx-a4a8eaae5135.herokuapp.com/dl/672243932da85e318e65fe24
-
-
-
-#EXTINF:-1 tvg-id="Super Hungama" group-title="Kids",Super Hungama
+#EXTINF:-1 tvg-id="Super Hungama" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Super Hungama
 https://unknown-playlists.vercel.app/super-hungama.m3u8
-#EXTINF:-1 tvg-id="Etv Bal Bharat" group-title="Kids",Etv Bal Bharat
+#EXTINF:-1 tvg-id="Etv Bal Bharat" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Etv Bal Bharat
 https://unknown-playlists.vercel.app/etv-bal-bharat-stevosure-tplay.m3u8
-#EXTINF:-1 tvg-id="Sports 18 Khel" group-title="Sports",Sports 18 Khel
+#EXTINF:-1 tvg-id="Sports 18 Khel" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Sports",Sports 18 Khel
 http://172.105.123.238:18002/play/a00r
-
