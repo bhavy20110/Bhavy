@@ -1,4 +1,34 @@
 #EXTM3U  
+#EXTINF:-1 tvg-id="Tmkoc 24/7" group-title="24/7 Shows",Tmkoc 24/7
+https://cdn.its-nayeemparvez.xyz/stbnov12/playlist.m3u8?id=a98e17f5ecaaecf4b|Referer=https://xnxx.com/
+#EXTINF:-1 tvg-id="CID 24/7" group-title="24/7 Shows",CID 24/7
+https://cdn.its-nayeemparvez.xyz/stbnov12/playlist.m3u8?id=b969e4c5b5e555cc3|Referer=https://xnxx.com/
+#EXTINF:-1 tvg-id="The Kapil Sharma 24/7" group-title="24/7 Shows",The Kapil Sharma 24/7
+https://cdn.its-nayeemparvez.xyz/stbnov12/playlist.m3u8?id=4ddb4570651b8949d|Referer=https://xnxx.com/
+#EXTINF:-1 tvg-id="Shinchan 24/7 2nd" group-title="Kids 24/7",Shinchan 24/7 2nd
+https://cdn.its-nayeemparvez.xyz/stbnov12/playlist.m3u8?id=14a3d9f62de40646d|Referer=https://xnxx.com/
+#EXTINF:-1 tvg-id="Doraemon 24/7 2nd" group-title="Kids 24/7",Doraemon 24/7 2nd
+https://cdn.its-nayeemparvez.xyz/stbnov12/playlist.m3u8?id=3513055adeb3e0997|Referer=https://xnxx.com
+#EXTINF:-1 tvg-id="ANIMAX" group-title="Kids 24/7",ANIMAX
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:-1 tvg-id="Disney India 6" group-title="Kids",Disney India 6
+https://cdm.its-nayeemparvez.xyz/stbnov12/playlist.m3u8?id=d4f175e2c9edbf135|Referer=https://xnxx.com/
+#EXTINF:-1 tvg-id="Hungama 4" group-title="Kids",Hungama 4
+https://cdm.its-nayeemparvez.xyz/stbnov12/playlist.m3u8?id=51e7ed7e6471873c3|Referer=https://xnxx.com/
+#EXTINF:-1 tvg-id="Super Hungama 2" group-title="Kids",Super Hungama 2
+https://cdm.its-nayeemparvez.xyz/stbnov12/playlist.m3u8?id=3d9430945dbaeaa50|Referer=https://xnxx.com/
+#EXTINF:-1 tvg-id="Sonic Multi Audio" group-title="Kids",Sonic Multi Audio
+https://thenayeemparvez@tamilultratv.co.in/api/jiotv.m3u8?id=815&e=.m3u8|Referer=https://tamilultratv.co.in/?key=thenayeemparvez&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.100 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="Nick Multi Audio" group-title="Kids",Nick Multi Audio
+https://thenayeemparvez@tamilultratv.co.in/api/jiotv.m3u8?id=545&e=.m3u8|Referer=https://tamilultratv.co.in/?key=thenayeemparvez&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.100 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="Kids Tv India" group-title="Kids",Kids Tv India
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8?token=thenayeemparvez
+#EXTINF:-1 tvg-id="Gubbare Kids Hindi" group-title="Kids",Gubbare Kids Hindi
+https://epiconvh.s.llnwi.net/gubbare/master.m3u
+#EXTINF:-1 tvg-id="Discovery Hindi Kids" group-title="Kids",Discovery Hindi Kids
+https://thenayeemparvez.xyz/discovery/kids.m3u8
+#EXTINF:-1 tvg-id="POGO HINDI" group-title="Kids",POGO HINDI
+https://thenayeemparvez@tamilultratv.co.in/api/jiotv.m3u8?id=559&e=.m3u8|Referer=https://tamilultratv.co.in/?key=thenayeemparvez&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.100 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Sony Max" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Movies",Sony Max
 http://119.152.240.15:8001/play/a0gr/index.m3u8 
 #EXTINF:-1 tvg-id="Hungama" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Kids",Hungama
