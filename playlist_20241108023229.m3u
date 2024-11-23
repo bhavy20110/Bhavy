@@ -1,5 +1,303 @@
 #EXTM3U  
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="" group-title="((dd))",9XM(dd)
+http://172.105.123.238:18002/play/a005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AASTHA" tvg-logo="" group-title="((dd))",AASTHA(dd)
+http://172.105.123.238:18002/play/a01c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Australia HD" tvg-logo="" group-title="((dd))",ABC Australia HD(dd)
+http://172.105.123.238:18002/play/a05c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP News" tvg-logo="" group-title="((dd))",ABP News(dd)
+http://172.105.123.238:18002/play/a020
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABZY Cool" tvg-logo="" group-title="((dd))",ABZY Cool(dd)
+http://172.105.123.238:18002/play/a036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABZY Movies" tvg-logo="" group-title="((dd))",ABZY Movies(dd)
+http://172.105.123.238:18002/play/a03c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACTION CINEMA" tvg-logo="" group-title="((dd))",ACTION CINEMA(dd)
+http://172.105.123.238:18002/play/a021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj Tak" tvg-logo="" group-title="((dd))",Aaj Tak(dd)
+http://172.105.123.238:18002/play/a01z
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aastha Bhajan" tvg-logo="" group-title="((dd))",Aastha Bhajan(dd)
+http://172.105.123.238:18002/play/a02s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ada Derana 24" tvg-logo="" group-title="((dd))",Ada Derana 24(dd)
+http://172.105.123.238:18002/play/a053
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera HD" tvg-logo="" group-title="((dd))",Al Jazeera HD(dd)
+http://172.105.123.238:18002/play/a05a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Athavan TV" tvg-logo="" group-title="((dd))",Athavan TV(dd)
+http://172.105.123.238:18002/play/a03p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U BHOJPURI" tvg-logo="" group-title="((dd))",B4U BHOJPURI(dd)
+http://172.105.123.238:18002/play/a00c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U KADAK" tvg-logo="" group-title="((dd))",B4U KADAK(dd)
+http://172.105.123.238:18002/play/a019
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U MUSIC" tvg-logo="" group-title="((dd))",B4U MUSIC(dd)
+http://172.105.123.238:18002/play/a00a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Movies" tvg-logo="" group-title="((dd))",B4U Movies(dd)
+http://172.105.123.238:18002/play/a00d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANSAL NEWS" tvg-logo="" group-title="((dd))",BANSAL NEWS(dd)
+http://172.105.123.238:18002/play/a02y
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHARAT 24 VISION OF NEW INDIA" tvg-logo="" group-title="((dd))",BHARAT 24 VISION OF NEW INDIA(dd)
+http://172.105.123.238:18002/play/a04s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV WORLD" tvg-logo="" group-title="((dd))",BTV WORLD(dd)
+http://172.105.123.238:18002/play/a038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bhojpuri Cinema" tvg-logo="" group-title="((dd))",Bhojpuri Cinema(dd)
+http://172.105.123.238:18002/play/a00w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Magic" tvg-logo="" group-title="((dd))",Big Magic(dd)
+http://172.105.123.238:18002/play/a018
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHUMBAK TV" tvg-logo="" group-title="((dd))",CHUMBAK TV(dd)
+http://172.105.123.238:18002/play/a01k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chardikla Time TV" tvg-logo="" group-title="((dd))",Chardikla Time TV(dd)
+http://172.105.123.238:18002/play/a02t
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chithiram" tvg-logo="" group-title="((dd))",Chithiram(dd)
+http://172.105.123.238:18002/play/a04b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cineplex Bollywood" tvg-logo="" group-title="((dd))",Cineplex Bollywood(dd)
+http://172.105.123.238:18002/play/a011
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Arunprabha" tvg-logo="" group-title="((dd))",DD Arunprabha(dd)
+http://172.105.123.238:18002/play/a02o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Assam" tvg-logo="" group-title="((dd))",DD Assam(dd)
+http://172.105.123.238:18002/play/a02m
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD BHARATI" tvg-logo="" group-title="((dd))",DD BHARATI(dd)
+http://172.105.123.238:18002/play/a025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD BIHAR" tvg-logo="" group-title="((dd))",DD BIHAR(dd)
+http://172.105.123.238:18002/play/a02c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Bangla" tvg-logo="" group-title="((dd))",DD Bangla(dd)
+http://172.105.123.238:18002/play/a02p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD CHHATTISGARH" tvg-logo="" group-title="((dd))",DD CHHATTISGARH(dd)
+http://172.105.123.238:18002/play/a02g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Chandana" tvg-logo="" group-title="((dd))",DD Chandana(dd)
+http://172.105.123.238:18002/play/a02i
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD GOA" tvg-logo="" group-title="((dd))",DD GOA(dd)
+http://172.105.123.238:18002/play/a02u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Girnar" tvg-logo="" group-title="((dd))",DD Girnar(dd)
+http://172.105.123.238:18002/play/a009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD HIMACHAL PRADESH" tvg-logo="" group-title="((dd))",DD HIMACHAL PRADESH(dd)
+http://172.105.123.238:18002/play/a029
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Haryana" tvg-logo="" group-title="((dd))",DD Haryana(dd)
+http://172.105.123.238:18002/play/a02v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD INDIA" tvg-logo="" group-title="((dd))",DD INDIA(dd)
+http://172.105.123.238:18002/play/a01s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD INDIA HD" tvg-logo="" group-title="((dd))",DD INDIA HD(dd)
+http://172.105.123.238:18002/play/a035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD JHARKHAND" tvg-logo="" group-title="((dd))",DD JHARKHAND(dd)
+http://172.105.123.238:18002/play/a02d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD KISAN" tvg-logo="" group-title="((dd))",DD KISAN(dd)
+http://172.105.123.238:18002/play/a004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Kashir" tvg-logo="" group-title="((dd))",DD Kashir(dd)
+http://172.105.123.238:18002/play/a02h
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD MP" tvg-logo="" group-title="((dd))",DD MP(dd)
+http://172.105.123.238:18002/play/a02e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Malayalam" tvg-logo="" group-title="((dd))",DD Malayalam(dd)
+http://172.105.123.238:18002/play/a02l
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Manipur" tvg-logo="" group-title="((dd))",DD Manipur(dd)
+http://172.105.123.238:18002/play/a032
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Meghalaya" tvg-logo="" group-title="((dd))",DD Meghalaya(dd)
+http://172.105.123.238:18002/play/a031
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Mizoram" tvg-logo="" group-title="((dd))",DD Mizoram(dd)
+http://172.105.123.238:18002/play/a034
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD NATIONAL HD" tvg-logo="" group-title="((dd))",DD NATIONAL HD(dd)
+http://172.105.123.238:18002/play/a03a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD NEWS" tvg-logo="" group-title="((dd))",DD NEWS(dd)
+http://172.105.123.238:18002/play/a002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD NEWS HD" tvg-logo="" group-title="((dd))",DD NEWS HD(dd)
+http://172.105.123.238:18002/play/a02x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Nagaland" tvg-logo="" group-title="((dd))",DD Nagaland(dd)
+http://172.105.123.238:18002/play/a033
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD National" tvg-logo="" group-title="((dd))",DD National(dd)
+http://172.105.123.238:18002/play/a003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Oriya" tvg-logo="" group-title="((dd))",DD Oriya(dd)
+http://172.105.123.238:18002/play/a02n
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Punjabi" tvg-logo="" group-title="((dd))",DD Punjabi(dd)
+http://172.105.123.238:18002/play/a00o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD RAJASTHAN" tvg-logo="" group-title="((dd))",DD RAJASTHAN(dd)
+http://172.105.123.238:18002/play/a02a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD SPORTS" tvg-logo="" group-title="((dd))",DD SPORTS(dd)
+http://172.105.123.238:18002/play/a02b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD SPORTS HD" tvg-logo="" group-title="((dd))",DD SPORTS HD(dd)
+http://172.105.123.238:18002/play/a03d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sahyadri" tvg-logo="" group-title="((dd))",DD Sahyadri(dd)
+http://172.105.123.238:18002/play/a00p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Saptagiri" tvg-logo="" group-title="((dd))",DD Saptagiri(dd)
+http://172.105.123.238:18002/play/a02k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD TRIPURA" tvg-logo="" group-title="((dd))",DD TRIPURA(dd)
+http://172.105.123.238:18002/play/a02f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Tamil" tvg-logo="" group-title="((dd))",DD Tamil(dd)
+http://172.105.123.238:18002/play/a00n
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD UP" tvg-logo="" group-title="((dd))",DD UP(dd)
+http://172.105.123.238:18002/play/a028
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD UTTARAKHAND" tvg-logo="" group-title="((dd))",DD UTTARAKHAND(dd)
+http://172.105.123.238:18002/play/a02j
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Urdu" tvg-logo="" group-title="((dd))",DD Urdu(dd)
+http://172.105.123.238:18002/play/a03b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Yadagiri" tvg-logo="" group-title="((dd))",DD Yadagiri(dd)
+http://172.105.123.238:18002/play/a027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK" tvg-logo="" group-title="((dd))",DHINCHAAK(dd)
+http://172.105.123.238:18002/play/a00i
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="" group-title="((dd))",DW(dd)
+http://172.105.123.238:18002/play/a05b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dangal" tvg-logo="" group-title="((dd))",Dangal(dd)
+http://172.105.123.238:18002/play/a00v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dangal 2" tvg-logo="" group-title="((dd))",Dangal 2(dd)
+http://172.105.123.238:18002/play/a014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Derana HD" tvg-logo="" group-title="((dd))",Derana HD(dd)
+http://172.105.123.238:18002/play/a052
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhamaal" tvg-logo="" group-title="((dd))",Dhamaal(dd)
+http://172.105.123.238:18002/play/a00h
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dharmavahini" tvg-logo="" group-title="((dd))",Dharmavahini(dd)
+http://172.105.123.238:18002/play/a03o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FILAMCHI BHOJPURI" tvg-logo="" group-title="((dd))",FILAMCHI BHOJPURI(dd)
+http://172.105.123.238:18002/play/a01d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fakt Marathi" tvg-logo="" group-title="((dd))",Fakt Marathi(dd)
+http://172.105.123.238:18002/play/a00q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOLDMINES MOVIES" tvg-logo="" group-title="((dd))",GOLDMINES MOVIES(dd)
+http://172.105.123.238:18002/play/a01j
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOOD NEWS TODAY" tvg-logo="" group-title="((dd))",GOOD NEWS TODAY(dd)
+http://172.105.123.238:18002/play/a00e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goldmines" tvg-logo="" group-title="((dd))",Goldmines(dd)
+http://172.105.123.238:18002/play/a00z
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goldmines Bollywood" tvg-logo="" group-title="((dd))",Goldmines Bollywood(dd)
+http://172.105.123.238:18002/play/a012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hiru TV" tvg-logo="" group-title="((dd))",Hiru TV(dd)
+http://172.105.123.238:18002/play/a056
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hitz HD" tvg-logo="" group-title="((dd))",Hitz HD(dd)
+http://172.105.123.238:18002/play/a05d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hitz HD" tvg-logo="" group-title="((dd))",Hitz HD(dd)
+http://172.105.123.238:18002/play/a04j
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIA DAILY LIVE" tvg-logo="" group-title="((dd))",INDIA DAILY LIVE(dd)
+http://172.105.123.238:18002/play/a01r
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ISHARA TV" tvg-logo="" group-title="((dd))",ISHARA TV(dd)
+http://172.105.123.238:18002/play/a01p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITN" tvg-logo="" group-title="((dd))",ITN(dd)
+http://172.105.123.238:18002/play/a04v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India News" tvg-logo="" group-title="((dd))",India News(dd)
+http://172.105.123.238:18002/play/a02w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India TV" tvg-logo="" group-title="((dd))",India TV(dd)
+http://172.105.123.238:18002/play/a01w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS WORLD" tvg-logo="" group-title="((dd))",KBS WORLD(dd)
+http://172.105.123.238:18002/play/a039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MANORANJAN GRAND" tvg-logo="" group-title="((dd))",MANORANJAN GRAND(dd)
+http://172.105.123.238:18002/play/a00l
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Movies" tvg-logo="" group-title="((dd))",Manoranjan Movies(dd)
+http://172.105.123.238:18002/play/a017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Prime" tvg-logo="" group-title="((dd))",Manoranjan Prime(dd)
+http://172.105.123.238:18002/play/a00j
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan TV" tvg-logo="" group-title="((dd))",Manoranjan TV(dd)
+http://172.105.123.238:18002/play/a01a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masti" tvg-logo="" group-title="((dd))",Masti(dd)
+http://172.105.123.238:18002/play/a01u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Meth TV" tvg-logo="" group-title="((dd))",Meth TV(dd)
+http://172.105.123.238:18002/play/a03n
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monara TV" tvg-logo="" group-title="((dd))",Monara TV(dd)
+http://172.105.123.238:18002/play/a03q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Plus" tvg-logo="" group-title="((dd))",Movie Plus(dd)
+http://172.105.123.238:18002/play/a016
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAZARA" tvg-logo="" group-title="((dd))",NAZARA(dd)
+http://172.105.123.238:18002/play/a006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV India" tvg-logo="" group-title="((dd))",NDTV India(dd)
+http://172.105.123.238:18002/play/a01g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK HD" tvg-logo="" group-title="((dd))",NHK HD(dd)
+http://172.105.123.238:18002/play/a059
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nethra" tvg-logo="" group-title="((dd))",Nethra(dd)
+http://172.105.123.238:18002/play/a04u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18 India" tvg-logo="" group-title="((dd))",News 18 India(dd)
+http://172.105.123.238:18002/play/a01o
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18 UP/UK" tvg-logo="" group-title="((dd))",News 18 UP/UK(dd)
+http://172.105.123.238:18002/play/a030
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24 Think First" tvg-logo="" group-title="((dd))",News 24 Think First(dd)
+http://172.105.123.238:18002/play/a00f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News Nation" tvg-logo="" group-title="((dd))",News Nation(dd)
+http://172.105.123.238:18002/play/a01x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PEAR TV" tvg-logo="" group-title="((dd))",PEAR TV(dd)
+http://172.105.123.238:18002/play/a01t
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POPULAR TV" tvg-logo="" group-title="((dd))",POPULAR TV(dd)
+http://172.105.123.238:18002/play/a00m
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polimer" tvg-logo="" group-title="((dd))",Polimer(dd)
+http://172.105.123.238:18002/play/a04c
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RISHTEY CINEPLEX" tvg-logo="" group-title="((dd))",RISHTEY CINEPLEX(dd)
+http://172.105.123.238:18002/play/a015
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT" tvg-logo="" group-title="((dd))",RT(dd)
+http://172.105.123.238:18002/play/a02q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raapchik" tvg-logo="" group-title="((dd))",Raapchik(dd)
+http://172.105.123.238:18002/play/a00b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rangiri Sri Lanka" tvg-logo="" group-title="((dd))",Rangiri Sri Lanka(dd)
+http://172.105.123.238:18002/play/a03i
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic Bharat" tvg-logo="" group-title="((dd))",Republic Bharat(dd)
+http://172.105.123.238:18002/play/a01y
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rupavahini" tvg-logo="" group-title="((dd))",Rupavahini(dd)
+http://172.105.123.238:18002/play/a04t
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SADHNA TV" tvg-logo="" group-title="((dd))",SADHNA TV(dd)
+http://172.105.123.238:18002/play/a01v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SANSAD  TV (RAJYA SABHA)" tvg-logo="" group-title="((dd))",SANSAD  TV (RAJYA SABHA)(dd)
+http://172.105.123.238:18002/play/a00t
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SANSAD TV" tvg-logo="" group-title="((dd))",SANSAD TV(dd)
+http://172.105.123.238:18002/play/a00s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHEMAROO TV" tvg-logo="" group-title="((dd))",SHEMAROO TV(dd)
+http://172.105.123.238:18002/play/a00u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD THRILLS" tvg-logo="" group-title="((dd))",STAR GOLD THRILLS(dd)
+http://172.105.123.238:18002/play/a01h
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN Neo" tvg-logo="" group-title="((dd))",SUN Neo(dd)
+http://172.105.123.238:18002/play/a00y
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanskar TV" tvg-logo="" group-title="((dd))",Sanskar TV(dd)
+http://172.105.123.238:18002/play/a01l
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shakthi TV" tvg-logo="" group-title="((dd))",Shakthi TV(dd)
+http://172.105.123.238:18002/play/a04z
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharddha TV" tvg-logo="" group-title="((dd))",Sharddha TV(dd)
+http://172.105.123.238:18002/play/a03k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Umang" tvg-logo="" group-title="((dd))",Shemaroo Umang(dd)
+http://172.105.123.238:18002/play/a00g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showbox" tvg-logo="" group-title="((dd))",Showbox(dd)
+http://172.105.123.238:18002/play/a008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sirasa TV" tvg-logo="" group-title="((dd))",Sirasa TV(dd)
+http://172.105.123.238:18002/play/a04y
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Siyane Roo TV" tvg-logo="" group-title="((dd))",Siyane Roo TV(dd)
+http://172.105.123.238:18002/play/a058
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Siyatha TV" tvg-logo="" group-title="((dd))",Siyatha TV(dd)
+http://172.105.123.238:18002/play/a054
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="" group-title="((dd))",Sony Wah(dd)
+http://172.105.123.238:18002/play/a01q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports18 Khel" tvg-logo="" group-title="((dd))",Sports18 Khel(dd)
+http://172.105.123.238:18002/play/a00r
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sri Dalada Maligawa" tvg-logo="" group-title="((dd))",Sri Dalada Maligawa(dd)
+http://172.105.123.238:18002/play/a03f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Tamil" tvg-logo="" group-title="((dd))",Star Tamil(dd)
+http://172.105.123.238:18002/play/a055
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Utsav Movies" tvg-logo="" group-title="((dd))",Star Utsav Movies(dd)
+http://172.105.123.238:18002/play/a01n
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sudarshan News" tvg-logo="" group-title="((dd))",Sudarshan News(dd)
+http://172.105.123.238:18002/play/a02z
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Marathi" tvg-logo="" group-title="((dd))",Sun Marathi(dd)
+http://172.105.123.238:18002/play/a007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supreme HD" tvg-logo="" group-title="((dd))",Supreme HD(dd)
+http://172.105.123.238:18002/play/a057
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Swarnavahini" tvg-logo="" group-title="((dd))",Swarnavahini(dd)
+http://172.105.123.238:18002/play/a051
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THE Q" tvg-logo="" group-title="((dd))",THE Q(dd)
+http://172.105.123.238:18002/play/a010
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNL" tvg-logo="" group-title="((dd))",TNL(dd)
+http://172.105.123.238:18002/play/a04x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1" tvg-logo="" group-title="((dd))",TV1(dd)
+http://172.105.123.238:18002/play/a050
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Bharatvarsh" tvg-logo="" group-title="((dd))",TV9 Bharatvarsh(dd)
+http://172.105.123.238:18002/play/a01b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Buddhist" tvg-logo="" group-title="((dd))",The Buddhist(dd)
+http://172.105.123.238:18002/play/a03g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIQUE TV" tvg-logo="" group-title="((dd))",UNIQUE TV(dd)
+http://172.105.123.238:18002/play/a01e
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV News" tvg-logo="" group-title="((dd))",VTV News(dd)
+http://172.105.123.238:18002/play/a037
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vasantham" tvg-logo="" group-title="((dd))",Vasantham(dd)
+http://172.105.123.238:18002/play/a04w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Verbum TV" tvg-logo="" group-title="((dd))",Verbum TV(dd)
+http://172.105.123.238:18002/play/a03j
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="((dd))",ZEE ANMOL CINEMA(dd)
+http://172.105.123.238:18002/play/a01f
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA 2" tvg-logo="" group-title="((dd))",ZEE ANMOL CINEMA 2(dd)
+http://172.105.123.238:18002/play/a024
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE Chitra Mandir" tvg-logo="" group-title="(dd))",ZEE Chitra Mandir(dd)
+http://172.105.123.238:18002/play/a022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE NEWS" tvg-logo="" group-title="((dd))",ZEE NEWS(dd)
+http://172.105.123.238:18002/play/a01i
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE Punjabi" tvg-logo="" group-title="(dd)",ZEE Punjabi(dd)
+http://172.105.123.238:18002/play/a023
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Biskope" tvg-logo="" group-title="(dd)",Zee Biskope(dd)
+http://172.105.123.238:18002/play/a00x
 #EXTINF:-1 group-title="Aus Vs Ind",Star Sports 1 Hindi Hd(BY @yuvraj824)
 https://play.yuvraj49.xyz/str-sports-1-hin-hd/index.mpd
 #EXTINF:-1 group-title="Aus Vs Ind",Star 4K(BY @yuvraj824)
