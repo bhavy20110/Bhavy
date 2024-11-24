@@ -435,7 +435,7 @@ http://port.denver1769.in/Airpel.php?tv=299
 #EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Sky Sports Cricket
 http://port.denver1769.in/Airpel.php?tv=1960
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Astro Cricket
-http://port.denver1769.in/Airpel.php?tv=1973
+https://play.tsdevil.fun/Devil-tplay-api/astro.mpd?id=ac1
 #EXTINF:-1 tvg-id="Fox Cricket" group-title="Cricket",Fox Cricket
 http://port.denver1769.in/Airpel.php?tv=1972
 #EXTINF:-1 tvg-id="Sports 18 1" tvg-epg="https://avkb.short.gy/jioepg.xml.gz" group-title="Cricket",Sports 18 1
