@@ -1679,7 +1679,7 @@ http://crichd.space/X-Tata/stream.m3u8?id=ts660&e=.m3u8
 #EXTINF:-1 tvg-id="ts783" tvg-name="Tata Play Seniors" tvg-logo="http://crichd.space/X-Tata/img/3445696069.png" group-title="Lifestyle (TataPlay)",Tata Play Seniors
 http://crichd.space/X-Tata/stream.m3u8?id=ts783&e=.m3u8
 #EXTINF:-1 tvg-id="ts24" tvg-name="Star Sports 1 Hindi HD" tvg-logo="http://crichd.space/X-Tata/img/3123957969.png" group-title="Sports (TataPlay)",Star Sports 1 Hindi HD
-http://crichd.space/X-Tata/stream.m3u8?id=ts24&e=.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV http://crichd.space/X-Tata/stream.m3u8?id=ts24&e=.m3u8 
 #EXTINF:-1 tvg-id="ts35" tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="http://crichd.space/X-Tata/img/3311180307.png" group-title="Sports (TataPlay)",SONY SPORTS TEN 5 HD
 http://crichd.space/X-Tata/stream.m3u8?id=ts35&e=.m3u8
 #EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1 HD" tvg-logo="http://crichd.space/X-Tata/img/2086586841.png" group-title="Sports (TataPlay)",Star Sports 1 HD
