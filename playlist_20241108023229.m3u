@@ -1829,7 +1829,7 @@ http://crichd.space/X-Tata/stream.m3u8?id=ts306&e=.m3u8
 #EXTINF:-1 tvg-id="ts307" tvg-name="Comedy Central HD" tvg-logo="http://crichd.space/X-Tata/img/4103030974.png" group-title="Comedy (TataPlay)",Comedy Central HD
 http://crichd.space/X-Tata/stream.m3u8?id=ts307&e=.m3u8
 #EXTINF:-1 tvg-id="ts559" tvg-name="SONY SAB" tvg-logo="http://crichd.space/X-Tata/img/3373022226.png" group-title="Comedy (TataPlay)",SONY SAB
-http://crichd.space/X-Tata/stream.m3u8?id=ts559&e=.m3u8
+https://ninjatv.host/tplay/stream.m3u8?id=ts559&e=.m3u8
 #EXTINF:-1 tvg-id="ts45" tvg-name="SONY YAY!" tvg-logo="http://crichd.space/X-Tata/img/1219500389.png" group-title="Kids (TataPlay)",SONY YAY!
 http://crichd.space/X-Tata/stream.m3u8?id=ts45&e=.m3u8
 #EXTINF:-1 tvg-id="ts114" tvg-name="Disney" tvg-logo="http://crichd.space/X-Tata/img/2459256821.png" group-title="Kids (TataPlay)",Disney
