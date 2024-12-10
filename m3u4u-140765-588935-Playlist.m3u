@@ -1,9 +1,9 @@
 <?php
 // SCRIPT Y DEADPOOL //
-echo "<script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool'></script>";
+echo "<script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/enable-devtool'></script>";
 
 echo "<script>
-        window.location.replace('https://t.me/DEAD_POOL_OFFICIAL_007');
+        window.location.replace('https://t.me/BhavyaPatel77');
       </script>";
 ?>
 #EXTM3U url-tvg=""
