@@ -1,6 +1,6 @@
 <?php
-// SCRIPT Y DEADPOOL //
-echo "<script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/enable-devtool'></script>";
+// SCRIP Y Bhavya //
+echo "<script enable-devtool-auto src='https://cdn.jsdelivr.net/npm/enable-devtool'></script>";
 
 echo "<script>
         window.location.replace('https://t.me/BhavyaPatel77');
