@@ -6,7 +6,7 @@ echo "<script>
         window.location.replace('https://t.me/BhavyaPatel77');
       </script>";
 ?>
-#EXTM3U url-tvg=""
+
 #EXTINF:-1 tvg-id="75228" tvg-name="CP24 4K" tvg-logo="" group-title="M3UMERGERS|| CANADA",CP24 4K
 https://allinonereborn.com/tatatv.php?id=75228
 #EXTINF:-1 tvg-id="75229" tvg-name="CP24 HD" tvg-logo="" group-title="M3UMERGERS|| CANADA",CP24 HD
