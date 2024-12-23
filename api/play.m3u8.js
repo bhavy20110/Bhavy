@@ -15,8 +15,11 @@ export default async function handler(req, res) {
       return;
     }
 
+    // Encode 'id' to ensure it's safe for URLs
+    const encodedId = encodeURIComponent(id);
+
     // Pass-through the proxied M3U8 URL
-    const proxiedUrl = https://m3u8-proxy-six.vercel.app/m3u8-proxy?url=https://amit.allinonereborn.in/jiobe.m3u8?id=${id}&headers=%7B%22referer%22%3A%22https%3A%2F%2F9anime.pl%22%7D;
+    const proxiedUrl = `https://m3u8-proxy-six.vercel.app/m3u8-proxy?url=https://amit.allinonereborn.in/jiobe.m3u8?id=${encodedId}&headers=%7B%22referer%22%3A%22https%3A%2F%2F9anime.pl%22%7D`;
 
     // Set CORS headers for cross-origin access
     res.setHeader("Access-Control-Allow-Origin", "*");
@@ -24,7 +27,7 @@ export default async function handler(req, res) {
     res.setHeader("Access-Control-Allow-Headers", "Content-Type");
     res.setHeader("Cache-Control", "public, max-age=10");
 
-    // Redirect to the proxied URL (or fetch if further processing is needed)
+    // Redirect to the proxied URL
     res.redirect(302, proxiedUrl);
   } catch (error) {
     console.error("Error in M3U8 handler:", error);
