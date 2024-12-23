@@ -16,7 +16,7 @@ export default async function handler(req, res) {
     }
 
     // Pass-through the proxied M3U8 URL
-    const proxiedUrl = https://m3u8-proxy-six.vercel.app/m3u8-proxy?url=https://amitb3669.github.io/jiobe.m3u?id=${id}&headers=%7B%22referer%22%3A%22https%3A%2F%2F9anime.pl%22%7D;
+    const proxiedUrl = https://m3u8-proxy-six.vercel.app/m3u8-proxy?url=https://amit.allinonereborn.in/jiobe.m3u8?id=${id}&headers=%7B%22referer%22%3A%22https%3A%2F%2F9anime.pl%22%7D;
 
     // Set CORS headers for cross-origin access
     res.setHeader("Access-Control-Allow-Origin", "*");
