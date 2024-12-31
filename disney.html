@@ -2,41 +2,166 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Live Stream Player</title>
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1.0">
+  <title>Disney Channel</title>
   <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css">
+  <script src=
+  "https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script src=
+  "https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
   <style>
     body {
+      font-family: 'Arial', sans-serif;
+      background: #181818;
+      color: #e0e0e0;
       margin: 0;
+      padding: 0;
       display: flex;
-      justify-content: center;
+      flex-direction: column;
       align-items: center;
-      height: 100vh;
-      background: #000;
+      justify-content: center;
+      min-height: 100vh;
     }
-    #player {
+
+    h1 {
+      color: #ff8c00;
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    }
+
+    .video-container {
+      margin: 20px;
+      width: 90%;
+      max-width: 800px;
+      aspect-ratio: 16 / 9;
+    }
+
+    video {
       width: 100%;
-      max-width: 900px;
-      height: auto;
+      height: 100%;
+      display: block;
+      object-fit: fill;
+    }
+
+    .telegram-button {
+      position: fixed;
+      bottom: 60px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      align-items: center;
+      padding: 12px 25px;
+      background-color: #0088cc;
+      color: #fff;
+      border: none;
+      border-radius: 50px;
+      text-decoration: none;
+      font-size: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+      transition: all 0.3s ease;
+    }
+
+    .telegram-button:hover {
+      background-color: #007bb5;
+      transform: translate(-50%, -2px);
+      box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .telegram-button img {
+      margin-right: 10px;
+      width: 24px;
+      height: 24px;
+    }
+
+    .credits {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 0.9rem;
+      color: #999;
     }
   </style>
 </head>
 <body>
-
-  <div id="player"></div>
-
-  <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+  <h1>Disney Channel</h1>
+  <div class="video-container">
+    <video id="player" playsinline></video>
+  </div><a class="telegram-button" href=
+  "https://t.me/BhavyaPatel77" target="_blank"><img src=
+  "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+  alt="Telegram Logo"> Join Telegram</a>
+  <div class="credits">
+    Made by - Bhavya Patel
+  </div>
   <script>
-    // Player setup
-    const player = new Plyr('#player', {
-      sources: [
-        {
-          src: 'https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/NQ7GK1onr4lkNkEPIOTOqX9R1CPrBUFNMoBLv-2tD8l7kpNr-LSR21jFcwEaY0nxPWRzOxA46voCuVGarAGgJw/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_delta.m3u8?type=live',
-          type: 'application/x-mpegURL'
-        }
-      ]
+    document.addEventListener("DOMContentLoaded", function () {
+      const video = document.getElementById('player');
+      const videoSrc = "https://act-chronicle-frederick-mark.trycloudflare.com/ninjaweb/linear-live.php?chunks=SEFFZVFrbHJYZ0ZQSG5kQmFVSkFTbnBmZTNSVENGTURRQnNJWlJWNVpXRkJJMEpvQUFOYUFtMEtWeWNNZEJVdGVWVkdZdzVoVWxOS1NsSTljV0VMZTE0SGMyNTdFSFFIUTJSZWJHSXJBVWdFS1FGeVdTVlFCREEvUjJ4dVlTTnZFa05GUmdFbEVsMEVIVFZBSmtKYkZ6c0RKMnNFQWhRSVRrQmZPQlVqYWpWTkpFQTBCMWRTWFcxUVVDQmNmeE4zZmxVUmJRdGpWVmRDR2xBN2QybFRMbEFFY2owc1FuUlFSV0paWlRaK1Uwc0NLZ01sQ0hnTFdqTnBSMjF1UDNadEVCQmFCaEZ3U1ZCQUF5WkVkaEJER0RCZWUzMWZBMWtBUVZKVGEwSXBNbVpMZFVGblZBaFJYVDFaQlNFS2RVRjlmd1JBUGd3M0JGRklUQUU3SkdzSmZBcFJlMjErVENCZEZYME9iVzE0QlVnRUxnRWhXM0pVQXpOakVUZHBPM1k0UmtCU1Z4SWlRRlFXVkE9PQ&vtoken=";
+
+      // Initialize HLS.js if supported
+      if (Hls.isSupported()) {
+        const hls = new Hls({
+          liveSyncDurationCount: 3, // Sync live playback with last 3 chunks
+          maxLiveSyncPlaybackRate: 1, // Normal playback speed (no faster playback)
+          lowLatencyMode: true, // Enable low latency mode
+          maxBufferSize: 30 * 1024 * 1024, // Max buffer size set to 30MB
+          maxBufferLength: 10, // Max buffer length (10 seconds)
+          startFragPrefetch: true, // Prefetch next chunk before current one ends
+          backBufferLength: 15, // Retain some backbuffer to smooth playback
+          enableWorker: true, // Use web workers for better performance
+        });
+
+        hls.loadSource(videoSrc);
+        hls.attachMedia(video);
+
+        hls.on(Hls.Events.MANIFEST_PARSED, () => {
+          console.log("Manifest loaded. Starting playback.");
+          video.play();
+        });
+
+        hls.on(Hls.Events.BUFFER_APPENDING, () => {
+          console.log("Appending new chunk to buffer.");
+        });
+
+        hls.on(Hls.Events.ERROR, (event, data) => {
+          console.error("HLS.js Error:", data.type, data);
+          if (data.fatal) {
+            switch (data.type) {
+              case Hls.ErrorTypes.NETWORK_ERROR:
+                console.log("Network error. Retrying...");
+                hls.startLoad();
+                break;
+              case Hls.ErrorTypes.MEDIA_ERROR:
+                console.log("Media error. Attempting recovery...");
+                hls.recoverMediaError();
+                break;
+              default:
+                hls.destroy();
+                console.log("Unrecoverable error. Reloading...");
+                window.location.reload();
+                break;
+            }
+          }
+        });
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = videoSrc;
+      } else {
+        console.error("HLS not supported on this browser.");
+      }
+
+      // Initialize Plyr
+      const player = new Plyr(video, {
+        controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'fullscreen'],
+        autoplay: true
+      });
+
+      player.on('ready', () => {
+        console.log("Plyr is ready.");
+      });
     });
   </script>
-
 </body>
 </html>
