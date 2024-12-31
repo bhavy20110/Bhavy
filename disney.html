@@ -1,71 +1,42 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Watch DISNEY INDIA Online |</title>
-  <meta name="viewport" content=
-  "width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
-  <link rel="stylesheet" href="assets/player.css?v=1735666387">
-  <link rel="shortcut icon" href="assets/favicon.png">
-  <script src=
-  "https://content.jwplatform.com/libraries/IDzF9Zmk.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live Stream Player</title>
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css">
   <style>
-  body { overflow: hidden; } .loading-text { font-weight: bold !important; } 
+    body {
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #000;
+    }
+    #player {
+      width: 100%;
+      max-width: 900px;
+      height: auto;
+    }
   </style>
 </head>
 <body>
-  <div id="loading" class="loading">
-    <div style="" class="loading-text">
-      <span style="" class="loading-text-words">N</span>
-      <span style="" class="loading-text-words">I</span>
-      <span style="" class="loading-text-words">N</span>
-      <span style="" class="loading-text-words">J</span>
-      <span style="" class="loading-text-words">A</span>
-      <span style="" class="loading-text-words">-</span>
-      <span style="" class="loading-text-words">T</span>
-      <span style="" class="loading-text-words">V</span>
-    </div>
-  </div>
-  <div id="vplayer" style="height: auto; text-align: center;">
-  </div>
-  <script src=
-  "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  
+
+  <div id="player"></div>
+
+  <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
   <script>
-
-  $(document).ready(function(){
-  // Encoded values from PHP
-  let encoded_url = "bGluZWFyLWxpdmUucGhwP2lkPTg2NCZ2dG9rZW49JmU9Lm0zdTg=";
-  let encoded_logo = "aHR0cHM6Ly90ZWxlbWV0ci5pby9lbi9jaGFubmVscy8xODkyNjEwMDE0LW5pbmphdHYzL3B1Ymxpc2g=";
-
-  // Decode the URL and logo
-  let playback_url = atob(encoded_url);
-  let channel_logo = atob(encoded_logo);
-
-  attach_player(playback_url, channel_logo);
-  });
-
-  function attach_player(playurl, logo) {
-  window.setTimeout(function(){ $("#loading").fadeOut(); }, 1500);
-  jwplayer("vplayer").setup({
-    sources: [ { file: playurl } ],
-    autostart: false,
-    mute: false, // Ensure the player is not muted on start
-    width: "100%",
-    image: logo,
-    height: "auto",
-    stretching: "uniform",
-    androidhls: true,
-    primary: "html5",
-    logo: {
-      file: logo,
-      hide: true,
-      position: "top-right",
-      margin: "5"
-    }
-  });
-  jwplayer().play();
-  }
-
+    // Player setup
+    const player = new Plyr('#player', {
+      sources: [
+        {
+          src: 'https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/NQ7GK1onr4lkNkEPIOTOqX9R1CPrBUFNMoBLv-2tD8l7kpNr-LSR21jFcwEaY0nxPWRzOxA46voCuVGarAGgJw/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_delta.m3u8?type=live',
+          type: 'application/x-mpegURL'
+        }
+      ]
+    });
   </script>
+
 </body>
 </html>
