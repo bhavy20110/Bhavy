@@ -1,8 +1,8 @@
   #EXTM3U #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined
-  a1",DEFAULT=YES,URI="tracks-a1/mono.m3u8?token=2ded2177212560c05ad98c8a226ed2a4"
+  a1",DEFAULT=YES,URI="https://allinonereborn.com/cool.php?id=7613/tracks-a1/mono.m3u8?token=2ded2177212560c05ad98c8a226ed2a4"
   #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined
-  a2",DEFAULT=NO,URI="tracks-a2/mono.m3u8?token=2ded2177212560c05ad98c8a226ed2a4"
+  a2",DEFAULT=NO,URI="https://allinonereborn.com/cool.php?id=7613/tracks-a2/mono.m3u8?token=2ded2177212560c05ad98c8a226ed2a4"
   #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined
-  a3",DEFAULT=NO,URI="tracks-a3/mono.m3u8?token=2ded2177212560c05ad98c8a226ed2a4"
+  a3",DEFAULT=NO,URI="https://allinonereborn.com/cool.php?id=7613/tracks-a3/mono.m3u8?token=2ded2177212560c05ad98c8a226ed2a4"
   #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1430000,BANDWIDTH=1790000,AUDIO="aac",RESOLUTION=786x576,FRAME-RATE=25.000,CODECS="avc1.4d001e",CLOSED-CAPTIONS=NONE
-  tracks-v1a1/mono.m3u8?token=2ded2177212560c05ad98c8a226ed2a4
+  https://allinonereborn.com/cool.php?id=7613/tracks-v1a1/mono.m3u8?token=2ded2177212560c05ad98c8a226ed2a4
