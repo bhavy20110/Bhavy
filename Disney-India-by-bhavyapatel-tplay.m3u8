@@ -1,3 +1,4 @@
-  #EXTM3U
-  #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2090000,BANDWIDTH=2620000,RESOLUTION=1920x1080
-  http://unknownplaylists.serveo.net/tatatv/live.php?id=59633
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,RESOLUTION=1920x1080,NAME="1080p"
+http://unknownplaylists.serveo.net/tatatv/live.php?id=59633
