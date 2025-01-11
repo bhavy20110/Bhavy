@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Opplex TV</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.7.6/shaka-player.ui.min.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.7.6/controls.min.css" crossorigin="anonymous">
+  <style>
+    body {
+      background-color: #121212;
+      color: #ffffff;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1f1f1f;
+      padding: 15px;
+      text-align: center;
+      border-bottom: 2px solid #007bff;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 1.8rem;
+      color: #007bff;
+    }
+    .iframe-container {
+      position: relative;
+      width: 100%;
+      height: 80vh;
+      overflow: hidden;
+      margin-top: 20px;
+    }
+    .iframe-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+    footer {
+      background-color: #1f1f1f;
+      color: #aaa;
+      padding: 10px;
+      text-align: center;
+      border-top: 2px solid #007bff;
+    }
+    footer a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    .btn-custom {
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-transform: uppercase;
+      font-size: 0.9rem;
+      margin: 10px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .btn-custom:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <h1>Live Sl Vs NZ</h1>
+    <p>Your favorite live streaming platform</p>
+  </header>
+
+  <!-- Video Player Section -->
+  <div class="iframe-container">
+    <iframe src="https://m3umergers-opplex-tv.vercel.app/play.m3u8?id=167580" allowfullscreen></iframe>
+  </div>
+
+  <!-- Buttons Section -->
+  <div class="text-center mt-3">
+    <button class="btn-custom" onclick="window.open('https://t.me/BhavyaPatel77', '_blank')">Join Our Telegram</button>
+    <button class="btn-custom" onclick="window.open('https://t.me/BhavyPatel77', '_blank')">Crafted by</button>
+  </div>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>Created by <strong>Bhavya Patel</strong>. Powered by <a href="https://cloudflare.com" target="_blank">Cloudflare</a>.</p>
+    <p>Need help? Contact us on <a href="https://t.me/BhavyaPatel77" target="_blank">Telegram</a>.</p>
+  </footer>
+</body>
+</html>
