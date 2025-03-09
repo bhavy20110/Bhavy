@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PS PLAY - LINK</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+    <link rel="shortcut icon" href="https://i.ibb.co/t8PFZNB/20231219-100949.png">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.css">
+    
+    <script src="https://cdn.jsdelivr.net/npm/plyr@3.6.12/dist/plyr.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1.1.4/dist/hls.min.js"></script>
+
+    <style>
+        /* General Styles */
+        html, body {
+            font-family: 'Poppins', sans-serif;
+            background: #000;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        video {
+            width: 100%;
+            max-width: 600px;
+            background: #000;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Video Player -->
+    <video id="player" controls poster="https://i.ibb.co/Tt7JCk9/20241113-111016.png" playsinline>
+        <source id="m3u8-url" src="" type="application/x-mpegURL">
+    </video>
+
+    <script>
+        // Get the stream ID from the URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const streamURL = urlParams.get('id');
+
+        if (streamURL) {
+            const video = document.getElementById('player');
+
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(streamURL);
+                hls.attachMedia(video);
+            } else {
+                video.src = streamURL;
+            }
+        } else {
+            console.error("No stream URL provided.");
+        }
+    </script>
+
+</body>
+</html>
